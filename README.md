@@ -1,2 +1,9 @@
-# C_Sharp_Banka_Test_Uygulamasi
+#### "Murat Yücedağ C# ile 25 Derste 25 Uygulamalı Proje" Udemy Kursuna ait C# Form Projesi
+
+# Proje: Bankacılık Uygulaması Örneği
+
+C# Form Uygulaması olarak geliştirdiğim bu projede dört adet Form ekranı bulunmaktadır. Program çalıştığında bizleri Login ekranı karşılamaktadır. Bu ekranda Hesap Numarası ile sisteme daha önceden kayıtlı kişiler giriş yapabilmekte, daha önce sistemde kayıtlı olmayan kişiler ise "Üye Değilim" butonuna basarak açılan yeni Form ekranında sisteme üye olabilmektedir. Sisteme giriş yapan kullanıcının, hesap bilgileri (Ad, Soyad, Hesap No ve TCKN) açılan formda üst köşede yer almaktadır. Ekranın alt köşesinde ise sisteme giriş yapan kullanıcıya ait bakiye tutarı ve hemen altında para göndereceği kişiye ait giriş yapması gereken hesap numarası ve göndereceği tutar yer almaktadır. İlgili bilgileri doldurarak "Gönder" butonuna basarak para gönderme işlemini başarıyla yapabilirsiniz. Aşağıda yer alan "Hareketlerim" butonuna basarak bundan önceki tüm gönderme işlemlerini yeni açılan Form ekranında görebilirsiniz.
  
+# Project: Banking Application Example
+
+In this project, which I developed as a C# Form Application, there are four Form screens. When the program runs, the Login screen welcomes us. On this screen, people who are already registered in the system can log in with their Account Number, and people who are not registered in the system before can become members of the system on the new Form screen that opens by clicking the "I am not a member" button. The account information (Name, Surname, Account Number and Identification Number) of the user logging into the system is located in the upper corner of the form. In the lower corner of the screen, there is the balance amount of the user logging into the system and the account number of the person to whom the money will be sent, and the amount to be sent. You can successfully send money by filling in the relevant information and clicking the "Send" button. By clicking the "My Transactions" button below, you can see all previous submissions on the newly opened Form screen.
