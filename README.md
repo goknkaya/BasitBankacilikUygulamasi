@@ -1,5 +1,3 @@
-#### "Murat Yücedağ C# ile 25 Derste 25 Uygulamalı Proje" Udemy Kursuna ait C# Form Projesi
-
 # Proje: Bankacılık Uygulaması Örneği
 
 C# Form Uygulaması olarak geliştirdiğim bu projede dört adet Form ekranı bulunmaktadır. Program çalıştığında bizleri Login ekranı karşılamaktadır. Bu ekranda Hesap Numarası ile sisteme daha önceden kayıtlı kişiler giriş yapabilmekte, daha önce sistemde kayıtlı olmayan kişiler ise "Üye Değilim" butonuna basarak açılan yeni Form ekranında sisteme üye olabilmektedir. Sisteme giriş yapan kullanıcının, hesap bilgileri (Ad, Soyad, Hesap No ve TCKN) açılan formda üst köşede yer almaktadır. Ekranın alt köşesinde ise sisteme giriş yapan kullanıcıya ait bakiye tutarı ve hemen altında para göndereceği kişiye ait giriş yapması gereken hesap numarası ve göndereceği tutar yer almaktadır. İlgili bilgileri doldurarak "Gönder" butonuna basarak para gönderme işlemini başarıyla yapabilirsiniz. Aşağıda yer alan "Hareketlerim" butonuna basarak bundan önceki tüm gönderme işlemlerini yeni açılan Form ekranında görebilirsiniz.
